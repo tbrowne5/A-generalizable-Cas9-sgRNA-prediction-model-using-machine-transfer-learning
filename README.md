@@ -1,7 +1,7 @@
 ## crisprHAL — [A generalizable Cas9/sgRNA prediction model using machine transfer learning with small high-quality datasets](https://doi.org/10.1038/s41467-023-41143-7)
 Note: this is a static paper-specific repository, and as such, does not contain up-to-date prediction models.
 
-## Links to all crisprHAL repositories, papers, and web tool:
+## Links to the crisprHAL repositories, papers, and web tool:
 * [Up-to-date crisprHAL prediction tool](https://github.com/tbrowne5/crisprHAL)
 * [Online crisprHAL prediction tool](https://crisprhal.streamlit.app/)
 * [crisprHAL 2.0 paper repository](https://github.com/tbrowne5/Better-data-for-better-predictions-data-curation-improves-deep-learning-for-sgRNA-Cas9-prediction/)
