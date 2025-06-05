@@ -1,5 +1,5 @@
 ## crisprHAL — [A generalizable Cas9/sgRNA prediction model using machine transfer learning with small high-quality datasets](https://doi.org/10.1038/s41467-023-41143-7)
-Note: this is a static paper-specific repository, and as such, it may not contain the most up-to-date prediction models.
+Note: this is a static paper-specific repository, and as such, does not contain the most up-to-date prediction models.
 
 ## The crisprHAL model repository, papers, and web tool:
 #### [The up-to-date crisprHAL repository](https://github.com/tbrowne5/crisprHAL)
@@ -16,6 +16,8 @@ The CRISPR/Cas9 nuclease from Streptococcus pyogenes (SpCas9) can be used with s
 If you wish to run the model on your own nucleotide sequence follow parts 0 to 3. 
 
 If you wish to validate the model or to update the model with your own data, follow parts 4 to 5.
+
+For practical use, please use the up-to-date model at: [github.com/tbrowne5/crisprHAL](https://github.com/tbrowne5/crisprHAL)
 
 ## Sections of this guide:
 
