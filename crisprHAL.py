@@ -196,6 +196,8 @@ def main(fileoutput="NULL", train=False, compare=False, model="Tev", inputdata="
     
     k.backend.clear_session()
 
+print("\nWelcome to crisprHAL 1.0 — Better data for better predictions: data curation improves deep learning for sgRNA/Cas9 prediction\n\nPlease be aware that this is a static repository specific to the original paper, and as such, does not contain the up-to-date prediction models.\n\nThe production models can be found at github.com/tbrowne5/crisprHAL or online at crisprHAL.streamlit.app — thank you!")
+
 compare=False
 train=False
 if len(sys.argv) > 1:
