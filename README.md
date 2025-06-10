@@ -105,7 +105,7 @@ python process_fasta.py phiX174.fna phiX174_sgRNAs.csv
 
 ## 3: Predict with the model
 
-***REMINDER: if you do not need to test this specific model please use [github.com/tbrowne5/crisprHAL](https://github.com/tbrowne5/crisprHAL) instead. This is a paper-specific repository and these models are outdated.***
+***REMINDER: if you do not need to test the models specific to this paper (A generalizable Cas9/sgRNA...) please use [github.com/tbrowne5/crisprHAL](https://github.com/tbrowne5/crisprHAL) instead. This is a paper-specific repository and these models are outdated.***
 
 This will take the file of the predicted sgRNA sequences from above and assign a score. Higher scores are better!
 The output is a .csv file named OUTPUT_[inputfile] and contains the sgRNA and the score. ```Runtime: ~10 seconds [+2-4 seconds/10,000 sites]```
